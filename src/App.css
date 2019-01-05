@@ -1,32 +1,101 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+* {
+ max-width: 320px;
+  margin: 0 auto;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App {
+  background-color: black;
+  width: 320px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Header {
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 10px;
+  font-size: 24px;
+}
+
+.photo {
+  position: absolute;
+  margin-top: 50px;
+  width: 320px;
+}
+
+.bunting {
+  position: relative;
+  top: 7px;
+  width: 320px;
+}
+
+.helen {
+  position: relative;
+  top: -4px;
+  left: 56px;
+  height: 50px;
+}
+
+.jav {
+  position: relative;
+  top: -39px;
+  left: 68px;
+  height: 44px;
+}
+
+.charly {
+  position: relative;
+    top: -22px;
+    left: 46px;
+  height: 45px;
+}
+
+.alastair {
+  position: relative;
+  top: -35px;
+  left: 70px;
+  height: 50px;
+}
+
+.blower {
+  position: relative;
+  top: 57px;
+  left: -116px;
+  height: 32px;
+   -webkit-transform: rotate(280deg);
+  -moz-transform: rotate(280deg);
+  -o-transform: rotate(280deg);
+  -ms-transform: rotate(280deg);
+  transform: rotate(280deg);
+}
+
+.horn {
+  position: relative;
+    top: 27px;
+    left: 65px;
+  height: 20px;
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  -ms-transform: rotate(150deg);
+  transform: rotate(150deg);
+}
+
+.arrow {
+  position: relative;
+  bottom: -150px;
+  display: flex;
+  justify-content: center;
+}
+
+.arrowButton {
+  height: 50px;
+}
+
+.Footer {
+  background-color: black;
+  position: relative;
+  bottom: -163px;
+  padding: 20px;
+  text-align: center;
 }

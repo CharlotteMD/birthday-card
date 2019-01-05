@@ -92,6 +92,63 @@
   height: 50px;
 }
 
+.Message {
+  margin: 10px;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0px;
+}
+
+.Message h2 {
+  text-align: centre;
+  padding: 20px;
+  margin: 10px;
+}
+
+.msg1 {
+  border: 5px dotted dodgerblue;
+  background-color: hotpink;
+}
+
+.msg2 {
+  border: 5px dotted hotpink;
+  background-color: dodgerblue;
+}
+
+.Surprise h2 {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  background-color: red;
+  padding: 10px;
+}
+
+.giphy-embed {
+  margin: 20px 0px;
+}
+
+.arrow2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: -143px;
+}
+
+.arrowButton2 {
+    height: 50px;
+    margin: 10px;
+}
+
+.arrow3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: -143px;
+}
+
+.arrowButton3 {
+    height: 50px;
+    margin: 10px;
+}
+
 .Footer {
   background-color: black;
   position: relative;

@@ -18,7 +18,7 @@ class Present extends Component {
 
                 <iframe src="https://giphy.com/embed/iPpA2bhL5GHqE" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-                <a className="arrow3" href="/4" alt="next page">
+                <a className="arrow3" href="/" alt="next page">
                     <img className="arrowButton3" src="./images/arrow-lights.gif" alt="Next" />
                 </a>
             </div>

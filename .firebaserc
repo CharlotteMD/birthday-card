@@ -1,6 +1,5 @@
 {
   "projects": {
-    "deploy": "happy-birthday-mumsiwug",
     "default": "happy-birthday-mumsiwug"
   }
 }

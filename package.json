@@ -1,7 +1,6 @@
 {
   "name": "mummy",
   "version": "0.1.0",
-  "homepage": "http://charlottemd.github.io/birthday-card",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
